@@ -1,0 +1,5 @@
+float32 dash_length
+float32 gap_length
+---
+float32 prev_dash_length
+float32 prev_gap_length
